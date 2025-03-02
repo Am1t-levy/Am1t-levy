@@ -4,7 +4,6 @@
 
 ### Hi there 👋  
 
-- 👂 My name is EvilAmit  
 - 🧑‍🚀 Pronouns: He/Him  
 - 🏗️ I’m currently working on **Shadowatch** (a Flask-based DevOps monitoring dashboard)  
 - 🌱 I’m currently learning **Google Cloud, Kubernetes, Terraform, Helm, Prometheus, and Grafana**  

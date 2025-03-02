@@ -1,6 +1,6 @@
-# 👋 Hello, I'm EvilAmit!
+# 👋 Hello, I'm Amit!
 
-🚀 DevOps Student | Cloud Enthusiast | AWS | Kubernetes | Terraform | Jenkins
+🚀 DevOps Engineer | Cloud Enthusiast | AWS | Kubernetes | Terraform | Jenkins
 
 ## 🛠 Tech Stack:
 - **Cloud:** AWS, Google Cloud
@@ -10,5 +10,5 @@
 - **Monitoring:** Prometheus, Grafana
 
 📫 **How to reach me:**
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/amit-levy-603578323/)
 - [GitHub](https://github.com/evilamit)
